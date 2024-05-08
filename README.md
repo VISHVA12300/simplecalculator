@@ -337,9 +337,10 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
-![WhatsApp Image 2024-04-17 at 11 02 19_5ff1b398](https://github.com/VISHVA12300/simplecalculator/assets/119404426/819da350-5a76-436d-88a9-bc85b3679b0a)
-![WhatsApp Image 2024-04-17 at 11 02 19_82e2f509](https://github.com/VISHVA12300/simplecalculator/assets/119404426/d49e8e8f-f88f-4b86-9964-451a1553f61d)
 
+![Screenshot 2024-05-08 103426](https://github.com/VISHVA12300/simplecalculator/assets/119404426/274c3158-1ce5-432e-b89f-a402d069686f)
+
+![Screenshot 2024-05-08 103435](https://github.com/VISHVA12300/simplecalculator/assets/119404426/aaf16760-3635-490b-9c2d-f46c7324d1df)
 
 
 
